@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: cyan;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    margin-left: 30px;
+}
+nav ul li a{
+    color: #505050;
+    text-decoration: none;
+}
